@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<config>
+  <local>server1</local>
+  <serverlist>
+    <server>
+      <name>server1</name>
+      <url>http://localhost:8080/Service1</url>
+    </server>
+    <server>
+      <name>server2</name>
+      <url>http://localhost:8080/Service2</url>
+    </server>
+  </serverlist>
+  <repository>
+    <dir>TestSample</dir>
+  </repository>
+</config>
